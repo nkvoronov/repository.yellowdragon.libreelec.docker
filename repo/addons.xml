@@ -28,7 +28,7 @@
 
 <addon id="service.system.docker"
        name="Docker stable"
-       version="9.2.0.147"
+       version="9.2.0.148"
        provider-name="Team LibreELEC">
   <requires>
     <import addon="os.libreelec.tv" version="9.2"/>
