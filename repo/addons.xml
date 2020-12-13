@@ -28,7 +28,7 @@
 
 <addon id="service.system.docker"
        name="Docker stable"
-       version="9.2.0.153"
+       version="9.2.0.154"
        provider-name="Team LibreELEC">
   <requires>
     <import addon="os.libreelec.tv" version="9.2"/>
@@ -48,6 +48,9 @@ Docker containers can encapsulate any payload, and will run consistently on and 
     </disclaimer>
     <platform>all</platform>
     <news>
+127
+- Rebuild tini without -DMINIMAL=ON to fix 'docker run --init'
+
 126
 - Update to docker 18.09.7
 
