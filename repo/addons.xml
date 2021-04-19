@@ -28,7 +28,7 @@
 
 <addon id="service.system.docker"
        name="Docker stable"
-       version="10.0.157"
+       version="10.0.158"
        provider-name="Team LibreELEC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
